@@ -12,8 +12,11 @@ Pre-installations
 You need to have the following installed on you PC:
 
 ● Python 3.7: link to download
+
 ● OpenCV library: link to download
+
 ● PIL (Python Imaging Library )
+
 ● Tkinter Library
 
 You can install the library by using the command “pip install name’ in the Command Prompt For Windows andTerminal for Mac
